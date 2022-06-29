@@ -8,7 +8,7 @@
  * sameEnds("xxx") → "x"
  */
 
-public class String3SameEnds {
+public class String3_SameEnds {
 
     public String sameEnds(String string) {
 
