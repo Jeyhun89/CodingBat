@@ -1,4 +1,4 @@
-package String_3;
+package string3;
 
 /**
  *
@@ -12,7 +12,7 @@ package String_3;
  sumDigits("Chocolate") → 0
  */
 
-public class String3_sumDigits {
+public class SumDigits {
 
     public int sumDigits(String str) {
 

@@ -1,4 +1,4 @@
-package Array_3;
+package array3;
 
 /**
  * Given a non-empty array, return true if there is a place to split the array so that the sum of the numbers on one side is equal to the sum of the numbers on the other side.
@@ -9,7 +9,7 @@ package Array_3;
  * canBalance([10, 10]) → true
  */
 
-public class Array3_canBalance {
+public class CanBalance {
 
     public boolean canBalance(int[] nums) {
 

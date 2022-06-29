@@ -1,4 +1,4 @@
-package String_3;
+package string3;
 
 /**
  * Given a string, return the longest substring that appears at both the beginning and
@@ -10,7 +10,7 @@ package String_3;
  * sameEnds("xxx") → "x"
  */
 
-public class String3_SameEnds {
+public class SameEnds {
 
     public String sameEnds(String string) {
 
