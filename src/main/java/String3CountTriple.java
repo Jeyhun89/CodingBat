@@ -16,9 +16,7 @@ public class String3CountTriple {
             if(str.charAt(i)==str.charAt(i+1) && str.charAt(i)==str.charAt(i-1)){
                 count++;
             }
-
         }
         return count;
     }
-
 }
